@@ -1,0 +1,17 @@
+{
+  "name": "speicher-socket-server",
+  "version": "1.0.0",
+  "description": "socket-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akriti",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongodb": "^6.20.0",
+    "socket.io": "^4.8.1"
+  }
+}
